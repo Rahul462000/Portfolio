@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.396edece.css",
+    "main.js": "/Portfolio/static/js/main.f0a72623.js",
+    "static/media/coding2.svg": "/Portfolio/static/media/coding2.e7fd0478451b8d72ff9b93b1ea475b66.svg",
+    "static/media/course2.svg": "/Portfolio/static/media/course2.29094b295c8f8a57f00350498dd1f9a1.svg",
+    "static/media/About-Us.svg": "/Portfolio/static/media/About-Us.3c11fb3a106c4032f9d5ae7db16acb7e.svg",
+    "static/media/course1.svg": "/Portfolio/static/media/course1.03eb8aa878932b0011bc0d526c271541.svg",
+    "static/media/course4.svg": "/Portfolio/static/media/course4.6bd35a8076364007ddc7b769c767346e.svg",
+    "static/media/course 5.svg": "/Portfolio/static/media/course 5.ed583f42d59b1e063d8da4f28ad5c195.svg",
+    "static/media/corse 6.svg": "/Portfolio/static/media/corse 6.977bf389a4d4dcb865aee84f1ec340ef.svg",
+    "static/media/corse3.svg": "/Portfolio/static/media/corse3.2d9946cf12112c616fb27c00131010c7.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.396edece.css.map": "/Portfolio/static/css/main.396edece.css.map",
+    "main.f0a72623.js.map": "/Portfolio/static/js/main.f0a72623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.396edece.css",
+    "static/js/main.f0a72623.js"
+  ]
+}
